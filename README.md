@@ -1,14 +1,18 @@
 <div align="center">
 
-  <img src="img/me.jpeg" alt="Muhammad Faruqi Rabbani" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 4px solid #8b5cf6;">
+![Uqi](img/me.png)
 
-  <h1 style="font-size: 3rem; font-weight: bold; margin-top: 20px;">Hi, I'm <span style="color: #8b5cf6;">Uqi</span>! 👋</h1>
+<h1 align="center">
+  Hi, I'm Uqi! 👋
+</h1>
   
   <h3>🚀 Fullstack Developer | Tech Enthusiast 💻 | 📍 Malang, Indonesia</h3>
 
-  <p align="center">
-    <em>"Passionate about building scalable web applications and exploring the world of data with Python."</em>
-  </p>
+<p align="center">
+  <em>"Transforming ideas into elegant code, one commit at a time"</em>
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Web+Application+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor)](https://git.io/typing-svg)
 
   <div>
     <a href="https://www.linkedin.com/in/faruqi-rabbani/" target="_blank">
@@ -96,22 +100,19 @@
 
 ## 💼 Work Experience
 
-| Period                  | Role                          | Company                  |
-| :---------------------- | :---------------------------- | :----------------------- |
-| **Nov 2023 - Present**  | Freelance Fullstack Developer | Self-Employed            |
-| **Aug 2024 - Oct 2025** | Fullstack Developer           | JobNation IT Outsourcing |
-| **May 2024 - Jul 2024** | Fullstack Developer           | Sekolah Cahaya Permata   |
-| **Aug 2023 - Oct 2023** | Fullstack Developer (Intern)  | Alimart                  |
-| **Apr 2023 - Jun 2023** | IT Staff (Intern)             | PT. Digital Solusi Grup  |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=500&lines=Freelance+Fullstack+Developer;Fullstack+Dev+at+JobNation;Fullstack+Dev+at+Sekolah+Cahaya;IT+Specialist+%26+Developer" alt="Typing SVG" />
+
+| Period            | Role                              | Company                  |
+| :---------------- | :-------------------------------- | :----------------------- |
+| `Nov 2023 - Now`  | **Freelance Fullstack Developer** | Self-Employed            |
+| `Aug 2024 - 2025` | **Fullstack Developer**           | JobNation IT Outsourcing |
+| `May 2024 - 2024` | **Fullstack Developer**           | Sekolah Cahaya Permata   |
+| `Aug 2023 - 2023` | **Fullstack Developer (Intern)**  | Alimart                  |
+| `Apr 2023 - 2023` | **IT Staff (Intern)**             | PT. Digital Solusi Grup  |
 
 ---
 
 ## 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UQIXD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UQIXD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" height="170px" />
-</div>
 
 <br/>
 
@@ -191,6 +192,9 @@
 ###
 
 <div align="center">
-  <p>© 2026 <b>Muhammad Faruqi Rabbani</b>. Let's build something amazing together!</p>
-  <img src="https://komarev.com/ghpvc/?username=UQIXD&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=UQIXD&color=6366f1&style=for-the-badge&label=VISITORS" alt="Profile Views" />
+  <p>
+    <code><b>Developed by Muhammad Faruqi Rabbani</b></code> <br />
+    <span>✨ Let's build something amazing together! ✨</span>
+  </p>
 </div>
