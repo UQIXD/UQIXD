@@ -6,13 +6,13 @@
   Hi, I'm Uqi! 👋
 </h1>
   
-  <h3>🚀 Fullstack Developer | Tech Enthusiast 💻 | 📍 Malang, Indonesia</h3>
+  <h3>🚀 Software Engineer | Tech Enthusiast 💻 | 📍 Malang, Indonesia</h3>
 
 <p align="center">
   <em>"Transforming ideas into elegant code, one commit at a time"</em>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Web+Application+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Application+Enthusiast;Always+Learning+New+Things;Open+Source+Contributor)](https://git.io/typing-svg)
 
   <div>
     <a href="https://www.linkedin.com/in/faruqi-rabbani/" target="_blank">
